@@ -1,4 +1,4 @@
-- 🤖 Run an automated analysis on the results of your HEG outputs.
+- 🤖 Run an automated analysis on the results of your **[HEG](https://github.com/conway87/HEG-3.0)** outputs.
 - ⏱️ Reduce time and effort needed to analyse those .csv files by hand.
 - 📊 Output analysis to a .xlsx file with visually intuitive formatting.
 - 🔍 Colourised items make it easy to quickly lock in on what you need and slice'n dice information easily
