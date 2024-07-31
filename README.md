@@ -1,0 +1,6 @@
+- 🤖 Run an automated analysis on the results of your HEG outputs.
+- ⏱️ Reduce time and effort needed to analyse those .csv files by hand.
+- 📊 Output analysis to a .xlsx file with visually intuitive formatting.
+- 🔍 Colourised items make it easy to quickly lock in on what you need and slice'n dice information easily
+- 🕵️‍♂️ IOCs, interesting items, script operations, cleanup operations are automagically tagged and annotated.
+- 🔥 Get straight to the useful items, ignore the noise.
